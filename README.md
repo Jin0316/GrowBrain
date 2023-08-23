@@ -7,3 +7,12 @@ ICCV 2023 official code for Grow a Brain with Sparsity-Inducing Generation for C
 
 ![GrowBrain](images/ICCV23_main_fig.jpg)
 </div>
+
+## Run the code
+TBD
+
+## Requirements 
+TBD 
+
+## Code list 
+TBD
