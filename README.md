@@ -9,7 +9,7 @@ ICCV 2023 official code for Grow a Brain with Sparsity-Inducing Generation for C
 </div>
 
 ## Run the code
-This repository supports the video action recognition with UCF-101 experiment in the original paper.
+This repository supports the video action recognition experiment with UCF-101 in the original paper.
 
 ```bash
 python3 TBD
