@@ -16,6 +16,8 @@ python3 TBD
 ```
 
 We followed the video action recognition benchmark provided from [[vCLIMB]](https://github.com/ojedaf/vCLIMB_Benchmark).
+Each video is split into three segments of equal duration. 
+In each segment, a frame is selected randomly. 
 
 ## Requirements 
 TBD 
