@@ -1,5 +1,6 @@
 # Growing a Brain with Sparsity-Inducing Generation for Continual Learning
-ICCV 2023 official code for Grow a Brain with Sparsity-Inducing Generation for Continual Learning
+This repos contains code for continually training video action recognition task from our Growing a Brain with Sparsity-Inducing Generation for Continual Learning (ICCV 2023).
+Please see our paper for more detailed information.
 <div align="center">
   
 ![ICCV](https://img.shields.io/badge/ICCV-2023-blue)
@@ -7,6 +8,10 @@ ICCV 2023 official code for Grow a Brain with Sparsity-Inducing Generation for C
 
 ![GrowBrain](images/ICCV23_main_fig.jpg)
 </div>
+
+
+## Requirements 
+TBD 
 
 ## Run the code
 This repository supports the video action recognition experiment with UCF-101 in the original paper.
@@ -19,8 +24,4 @@ We followed the video action recognition benchmark provided from [[vCLIMB]](http
 Each video is split into three segments of equal duration. 
 In each segment, a frame is selected randomly. 
 
-## Requirements 
-TBD 
-
-## Code list 
-TBD
+## Citation
