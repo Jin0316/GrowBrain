@@ -11,7 +11,7 @@ Please see our paper for more detailed information.
 
 
 ## Requirements 
-TBD 
+Before running the code, please install the requirements listed in the requirements.txt file. 
 
 ## Run the code
 This repository supports the video action recognition experiment with UCF-101 in the original paper.
@@ -19,7 +19,7 @@ This repository supports the video action recognition experiment with UCF-101 in
 ```bash
 python3 -u ucf_main.py | tee growbrain.log
 ```
-
+Before running the codes, you have to download the video datasets and extract the frames of videos. 
 We followed the video action recognition benchmark provided from [[vCLIMB]](https://github.com/ojedaf/vCLIMB_Benchmark).
 Each video is split into three segments of equal duration. 
 In each segment, a frame is selected randomly. 
