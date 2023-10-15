@@ -25,3 +25,12 @@ Each video is split into three segments of equal duration.
 In each segment, a frame is selected randomly. 
 
 ## Citation
+'''bash
+@inproceedings{jin2023growing,
+  title={Growing a Brain with Sparsity-Inducing Generation for Continual Learning},
+  author={Jin, Hyundong and Kim, Gyeong-hyeon and Ahn, Chanho and Kim, Eunwoo},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={18961--18970},
+  year={2023}
+}
+'''
